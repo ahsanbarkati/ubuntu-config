@@ -1,0 +1,3 @@
+Successfully changed wallpaper
+run: feh --bg-scale /home/ash/.autowall/wallpapers/1.jpg
+Fri Apr 24 22:13:01 IST 2020
