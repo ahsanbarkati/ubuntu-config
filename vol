@@ -1,0 +1,1 @@
+echo $(pactl list sinks | grep "Volume: front-left:" | awk "NR==2" | awk '{print $5}')
